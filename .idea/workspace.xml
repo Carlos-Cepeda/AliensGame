@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4a0420f-c0d6-4b00-901f-c67ebacd6ad8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/file.py" beforeDir="false" afterPath="$PROJECT_DIR$/files/file.py" afterDir="false" />
-    </list>
+    <list default="true" id="d4a0420f-c0d6-4b00-901f-c67ebacd6ad8" name="Changes" comment="alien_invasion P1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,6 +133,14 @@
       <option name="presentableId" value="Default" />
       <updated>1657327526160</updated>
     </task>
+    <task id="LOCAL-00001" summary="alien_invasion P1">
+      <created>1657331455962</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657331455962</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +153,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="alien_invasion P1" />
+    <option name="LAST_COMMIT_MESSAGE" value="alien_invasion P1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
