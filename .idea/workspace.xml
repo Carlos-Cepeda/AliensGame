@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4a0420f-c0d6-4b00-901f-c67ebacd6ad8" name="Changes" comment="alien_invasion P2">
-      <change afterPath="$PROJECT_DIR$/alien_invation/ship.py" afterDir="false" />
+    <list default="true" id="d4a0420f-c0d6-4b00-901f-c67ebacd6ad8" name="Changes" comment="alien_invasion P3">
+      <change afterPath="$PROJECT_DIR$/alien_invation/bullet.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alien_invation/file.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invation/alien_invasion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invation/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invation/alien_invasion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alien_invation/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invation/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -175,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657333626616</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="alien_invasion P3">
+      <created>1657341119862</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657341119862</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,7 +199,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="alien_invasion P1" />
     <MESSAGE value="alien_invasion P2" />
-    <option name="LAST_COMMIT_MESSAGE" value="alien_invasion P2" />
+    <MESSAGE value="alien_invasion P3" />
+    <option name="LAST_COMMIT_MESSAGE" value="alien_invasion P3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
