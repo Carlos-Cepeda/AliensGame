@@ -32,7 +32,7 @@ class Settings:
         self.bullet_speed = 3.0
         self.alien_speed = 1.0
 
-        self.bullet_width = 3
+        # self.bullet_width = 3
 
         # fleet_direction of 1 represents right; -1 represents left
         self.fleet_direction = 1
