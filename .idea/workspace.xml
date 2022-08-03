@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4a0420f-c0d6-4b00-901f-c67ebacd6ad8" name="Changes" comment="alien_invasion P11">
-      <change afterPath="$PROJECT_DIR$/alien_invation/try.py" afterDir="false" />
+    <list default="true" id="d4a0420f-c0d6-4b00-901f-c67ebacd6ad8" name="Changes" comment="alien_invasion P12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alien_invation/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invation/alien_invasion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alien_invation/game_stats.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invation/game_stats.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alien_invation/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invation/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invation/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invation/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invation/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invation/ship.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alien_invation/try.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.try">
+  <component name="RunManager" selected="Python.alien_invasion (1)">
     <configuration name="alien_invasion (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AliensGame" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,8 +168,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.try" />
         <item itemvalue="Python.alien_invasion (1)" />
+        <item itemvalue="Python.try" />
         <item itemvalue="Python.settings" />
         <item itemvalue="Python.alien_invasion" />
         <item itemvalue="Python.file" />
@@ -261,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659240425506</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="alien_invasion P12">
+      <created>1659321866237</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1659321866237</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -287,7 +295,8 @@
     <MESSAGE value="alien_invasion P9" />
     <MESSAGE value="alien_invasion P10" />
     <MESSAGE value="alien_invasion P11" />
-    <option name="LAST_COMMIT_MESSAGE" value="alien_invasion P11" />
+    <MESSAGE value="alien_invasion P12" />
+    <option name="LAST_COMMIT_MESSAGE" value="alien_invasion P12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
